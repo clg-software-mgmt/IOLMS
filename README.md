@@ -1,2 +1,2 @@
-# iolms
-Integrated Operations &amp; Learning Management System (IOLMS)
+# IOLMS
+Integrated Operations & Learning Management System (IOLMS)
